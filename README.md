@@ -24,7 +24,7 @@ Sistema de gerenciamento de clientes desenvolvido com React e MaterializeCSS, ut
 ## 🛠️ Como Rodar o Projeto
 
 ### Pré-requisitos
-- Node.js (versão 14 ou superior)
+- Node.js (versão 16)
 - npm ou yarn
 
 ### Passo a Passo
